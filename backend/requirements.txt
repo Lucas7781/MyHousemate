@@ -1,0 +1,4 @@
+Django
+mysql-connector-python
+mysqlclient
+python-dotenv
